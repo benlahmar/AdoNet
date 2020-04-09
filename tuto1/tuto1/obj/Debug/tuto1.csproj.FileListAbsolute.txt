@@ -1,0 +1,12 @@
+C:\Users\moi\source\repos\tuto1\tuto1\bin\Debug\tuto1.exe.config
+C:\Users\moi\source\repos\tuto1\tuto1\bin\Debug\tuto1.exe
+C:\Users\moi\source\repos\tuto1\tuto1\bin\Debug\tuto1.pdb
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.csprojAssemblyReference.cache
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.Form1.resources
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.inscription.resources
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.Properties.Resources.resources
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.csproj.GenerateResource.cache
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.csproj.CoreCompileInputs.cache
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.exe
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.pdb
+C:\Users\moi\source\repos\tuto1\tuto1\obj\Debug\tuto1.addnote.resources
